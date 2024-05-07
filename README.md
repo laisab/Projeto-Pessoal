@@ -1,6 +1,6 @@
 # Programação Orientada a Objetos I
 
-Atividade realizada durante a disciplina de **Programação Orientada a Objetos I** na graduação em Engenharia de Computação.
+Atividade realizada durante a disciplina de **Programação Orientada a Objetos I** durante a graduação em Engenharia de Computação.
 <br>**Professor**: José Antonio Gonçalves</br>
 **Instituição**: UTFPR - Cornélio Procópio
 
